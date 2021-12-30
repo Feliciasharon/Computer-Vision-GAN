@@ -1,9 +1,9 @@
 # Exploration of Generative Adversarial Networks(GANs)
 
 
-##1) Text to image translation
+## 1) Text to image translation
 
-##2) Solving class imbalance
+## 2) Solving class imbalance
 
 Make sure to have installed keras library
 
