@@ -8,6 +8,12 @@ Video Explanation -> https://drive.google.com/file/d/10_NBL27Wi9q1fYBDzLRrAJ61So
 
 ##### Setup - 
 a) Download the CUB_200_2011 dataset (bird dataset).
+
+CUB_200_2011:- https://drive.google.com/drive/folders/13LCfBLkNjbAJOFiw1gbJG0ymR0Xo1oL1?usp=sharing
+
+birds:- https://drive.google.com/drive/folders/1zlOpoFNezPjG-SLVc_WWqd981nPBVf6E?usp=sharing
+
+
 ####  Number of categories: 200
 ####  Number of images: 11,788
 ####  Eg - 
