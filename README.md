@@ -7,7 +7,7 @@
 
 Make sure to have installed keras library
 
-Execute the code in the same order as given or else there might be some error
+Execute the code in the same order as given or else there might be some error- 'img GAN.ipynb'
 
 First, the Fashion-mnist dataset is loaded from keras library and the testing and training datasets are combined, and they are reshaped and converted into float32 datatype.
 
@@ -23,7 +23,7 @@ In the summarise_performance() function the already built KNN model will be used
 
 Then a Decision tree model will be built on the balanced dataset and the accuracy and the no.of misclassified samples are noted.
 
-Similarly, the same pre-processing(combining testing and training datasets, reshaping the dataset to 2D dataset and converting the pixels into float32 datatype and bringing them into the range [-1,1] )is done for SMOTE . 
+Similarly, the same pre-processing(combining testing and training datasets, reshaping the dataset to 2D dataset and converting the pixels into float32 datatype and bringing them into the range [-1,1] )is done for SMOTE- 'SMOTE.ipynb' 
 
 The SMOTE model is built and the imbalanced dataset is made balanced
 
