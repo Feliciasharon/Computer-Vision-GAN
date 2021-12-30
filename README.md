@@ -31,7 +31,7 @@ c) Then run Text2Image_StackGAN.py file in the jupyter notebook.
 
 #### Aim - To solve the problem of class imbalance by generating images using SGAN
 
-a) Make sure to have installed keras library
+a) Make sure to have installed keras library. The Fashion-mnist dataset can be imported from keras library.
 
 b) Execute the code in the same order as given or else there might be some error- 'img GAN.ipynb'
 
